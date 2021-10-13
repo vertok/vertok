@@ -1,4 +1,4 @@
-### Hi there, I'm Alexey - aka [vertok][linkedin]
+### Hi there, I'm Alexey - aka [vertok][github]
 
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-obukhov-a9a201156)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vertok)
@@ -61,3 +61,4 @@
 
 [instagram]: https://instagram.com/vertok
 [linkedin]: https://www.linkedin.com/in/alexey-obukhov-a9a201156
+[github]: https://github.com/vertok/vertok
