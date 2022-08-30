@@ -60,5 +60,5 @@
 ---
 
 [instagram]: https://instagram.com/vertok
-[linkedin]: https://www.linkedin.com/in/alexey-obukhov-a9a201156
+[linkedin]: https://www.linkedin.com/in/alexeyobukhov
 [github]: https://github.com/vertok/vertok
