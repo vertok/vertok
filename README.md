@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-obukhov-a9a201156)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vertok)
 
-## I'm a Student, hard-working Employee, Developer, Software-Tester and just a kind Person!!
+## I'm a hard-working Employee, good Back-end Developer, precise Software-Tester and ambitious Athlete
 
-- 🌱 I’m currently studying Geomatics at the HTW Dresden
+- 🌱 I’ve studied Mathematics, Informatics and Geomatics in three different countries
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021/22 Goals: find a job, continue learning new things and prepare myself for Ironman70.3 Dresden on 31.07.2022
+- 🥅 2022/23 Goals: find a job, continue learning new things and prepare myself for Ironman70.3 Dresden on 31.07.2023
 - ⚡ Fun fact: I know which part of the human body keeps growing throughout an entire lifetime
 
 ### Languages and Tools:
