@@ -7,7 +7,6 @@
 
 - 🌱 I’ve studied Mathematics, Informatics and Geomatics in three different countries
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022/23 Goals: find a job, continue learning new things and prepare myself for Ironman70.3 Dresden on 31.07.2023
 - ⚡ Fun fact: I know which part of the human body keeps growing throughout an entire lifetime
 
 ### Languages and Tools:
