@@ -7,7 +7,7 @@
 
 - 🌱 I’ve studied Mathematics, Informatics and Geomatics in three different countries
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 At the moment started very interesting and promising AI project https://github.com/alexey-obukhov/potential-spoon
+- 🎯 At the moment started very interesting and promising AI project https://github.com/alexey-obukhov/psy-supabase
 - ⚡ Fun fact: I know which part of the human body keeps growing throughout an entire lifetime
 
 ### Languages and Tools:
